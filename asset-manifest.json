@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sangamsinghal/SS-gym.git/static/css/main.20acbc28.css",
+    "main.js": "/sangamsinghal/SS-gym.git/static/js/main.ccae3fec.js",
+    "static/media/banner.png": "/sangamsinghal/SS-gym.git/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/sangamsinghal/SS-gym.git/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/sangamsinghal/SS-gym.git/index.html",
+    "main.20acbc28.css.map": "/sangamsinghal/SS-gym.git/static/css/main.20acbc28.css.map",
+    "main.ccae3fec.js.map": "/sangamsinghal/SS-gym.git/static/js/main.ccae3fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.ccae3fec.js"
+  ]
+}
